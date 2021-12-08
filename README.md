@@ -1,2 +1,2 @@
 # CV
-My first website, which I created using HTML only. Acts as my fake CV for now.
+My first website remade with the use of CSS. Acts as my actual CV now.

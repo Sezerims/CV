@@ -134,6 +134,12 @@ ul
     display: inline-block;
 }
 
+.column-right-long
+{
+    display: inline-block;
+    width: 70%;
+}
+
 .clear-both
 {
     clear: both;
@@ -149,7 +155,7 @@ ul
 
 .inner-progress-bar
 {
-    border: 1px solid #45B29A;
+    border: 1px solid black;
     height: 75%;
     margin: 4px 0;
     padding: 0;

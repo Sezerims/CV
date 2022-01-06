@@ -1,2 +1,2 @@
 # CV
-My first website remade with the use of CSS. Acts as my actual CV now.
+My first website remade with the use of CSS. Not up-to-date with my CV.
